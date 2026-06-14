@@ -1,2 +1,33 @@
-# Sales-Analysis-Dashboard-Using-Power-BI
-An interactive Power BI dashboard was created to examine monthly trends, goods, and sales performance across nations. The dashboard offers information on sales distribution, profit, product performance, and overall sales.
+# Sales Analysis Dashboard
+# Project Overview
+This project presents an interactive Power BI dashboard designed to analyze sales performance across countries, products, and time periods.
+Objectives
+ • Analyze overall sales performance.
+ • Compare sales across different countries.
+ • Identify top-performing products.
+ • Monitor monthly sales trends.
+ • Evaluate product profitability.
+ 
+Dashboard Components
+ • Total Sales KPI
+ • Total Profit KPI
+ • Total Products KPI
+ • Total Countries KPI
+ • Sales by Country
+ • Sales by Product
+ • Top 5 Products by Profit
+ • Sales Trend by Month
+ 
+Key Insights
+ • The United States achieved the highest sales among all countries.
+ • Paseo generated the highest share of sales and profit.
+ • Sales peaked during October and December.
+ • Product profitability is concentrated among a few products.
+ • Overall sales performance remained strong throughout the year.
+ 
+Tools Used
+ • Power BI
+ • Microsoft Excel
+ 
+Dataset
+Financial Sample Datas
